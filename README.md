@@ -1,6 +1,6 @@
 py3_Controller.py + time.php
 
-![Screenshot](https://i.imgur.com/R76koxF.png)
+![Screenshot](https://i.imgur.com/9EBc6qV.png)
 
 Information:  
 • Upload "time.php" to your Target.  
