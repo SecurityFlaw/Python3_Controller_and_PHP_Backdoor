@@ -5,4 +5,5 @@ py3_Controller.py + time.php
 Information:  
 • Upload "time.php" to your Target.  
 • Then start the "py3_Controller.py" or "start.bat".  
-• After that you can type your system commands!
+• After that, type in your Target URL (Exact path of "time.php").  
+• Now you can type some os commands!
